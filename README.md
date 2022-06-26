@@ -24,8 +24,8 @@ margem -> a margem de lucro em cima da venda <br>
 "lucro": "10 R$"<br>
 }
       
-    # cadastrar moeda  
-      http://armandosoares.epizy.com/api/public_html/
+# Cadastrar moeda <br>
+     http://armandosoares.epizy.com/api/public_html/
 
 <br>
 insira os 2 parametro necessarios<br> 
@@ -34,7 +34,7 @@ valor -> o valor da moeda atualmente<br>
 
 <p>
   exemplo de url: <p>
-       http://localhost/minhaapirest/public_html/?novamoeda=teste&valor=30 <p>
+     http://armandosoares.epizy.com/api/public_html/?novamoeda=teste&valor=30 <p>
      Retorno :<br>
 {<br>
 "status": "moeda cadastrada com sucesso",<br>
